@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-affection/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Deep Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-affection/) |
+| **Get License** | [Obtain a Music License for Deep Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-affection/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5d20a33d661bfee3487e421c444cdf1b882f07b42f25a50ccfac22e46373c3ea` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
