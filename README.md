@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-affection/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Deep Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-affection/) |
+| **Get License** | [Music Rights & Licensing for Deep Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-affection/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
