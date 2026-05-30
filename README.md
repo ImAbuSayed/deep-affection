@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-affection/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deep Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-affection/) |
+| **Get License** | [License this song: Deep Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-affection/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows falling on the hardwood floor
+> Your silhouette is all I'm looking for
+> Drawing closer to the fire in your eyes
+> Losing track of every single compromise
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
